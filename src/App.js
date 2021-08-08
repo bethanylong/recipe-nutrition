@@ -47,9 +47,13 @@ const RecipeIngredient = ({ name, quantity, units, hasNutrition }) => {
     //return <li>{name} {quantity} {units}</li>;
     let nameClasses = "ingredients-name";
     if (!hasNutrition) nameClasses += " ingredients-name-no-nutrition-info";
+
+    let prettyUnits = units;
+    if (quantity !== 1 && units === "packet") prettyUnits = "packets";
+
     return (
         <>
-            <div className="ingredients-amount">{quantity} {units}</div>
+            <div className="ingredients-amount">{quantity} {prettyUnits}</div>
             <div className={nameClasses}>{name}</div>
         </>
     );

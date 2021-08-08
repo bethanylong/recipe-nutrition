@@ -63,5 +63,6 @@
             "Hot sauce": {"quantity": 1, "units": "packet"},
             "Water": {"quantity": 12, "units": "fl oz"}
         }
-    }
+    },
+    "Taco rice and beans": {"ingredients": {"Instant brown rice": {"quantity": 50, "units": "g"}, "Dried beans": {"quantity": 45, "units": "g"}, "Dried onion": {"quantity": 10, "units": "g"}, "Dried carrot": {"quantity": 10, "units": "g"}, "Dried bell peppers": {"quantity": 5, "units": "g"}, "Dried tomato paste": {"quantity": 3, "units": "g"}, "Dried tomato": {"quantity": 2, "units": "g"}, "Salt": {"quantity": 3, "units": "g"}, "Garlic powder": {"quantity": 2, "units": "g"}, "Cumin": {"quantity": 1, "units": "g"}, "Olive oil": {"quantity": 1, "units": "packet"}, "Taco sauce": {"quantity": 2, "units": "packet"}, "Water": {"quantity": 10, "units": "oz"}}}
 }
