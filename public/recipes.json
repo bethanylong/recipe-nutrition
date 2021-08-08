@@ -1,0 +1,67 @@
+{
+    "Chili": {
+        "ingredients": {
+            "Dried beans": { "quantity": 60, "units": "g" },
+            "TVP": { "quantity": 20, "units": "g" },
+            "Dried onion": { "quantity": 8, "units": "g" },
+            "Dried bell peppers": { "quantity": 5, "units": "g" },
+            "Dried zucchini": { "quantity": 2, "units": "g" },
+            "Dried jalapeño": { "quantity": 1, "units": "g" },
+            "Dried tomato paste": { "quantity": 6, "units": "g" },
+            "Salt": { "quantity": 6, "units": "g" },
+            "Sugar": { "quantity": 4, "units": "g" },
+            "Chili powder": { "quantity": 4, "units": "g" },
+            "Garlic powder": { "quantity": 3, "units": "g" },
+            "Cumin": { "quantity": 2, "units": "g" },
+            "Black pepper": { "quantity": 0.1, "units": "g" },
+            "Olive oil": { "quantity": 1, "units": "packet" },
+            "Water": { "quantity": 16, "units": "fl oz" }
+        }
+    },
+    "Not shakshouka": {
+        "ingredients": {
+            "Dried beans": {"quantity": 75, "units": "g"},
+            "Dried onion": {"quantity": 15, "units": "g"},
+            "Dried bell peppers": {"quantity": 8, "units": "g"},
+            "Dried zucchini": {"quantity": 2, "units": "g"},
+            "Dried tomato paste": {"quantity": 8, "units": "g"},
+            "Salt": {"quantity": 5, "units": "g"},
+            "Sugar": {"quantity": 3, "units": "g"},
+            "Cumin": {"quantity": 2, "units": "g"},
+            "Garlic powder": {"quantity": 2, "units": "g"},
+            "Coriander": {"quantity": 1.5, "units": "g"},
+            "Cardamom": {"quantity": 0.5, "units": "g"},
+            "Cinnamon": {"quantity": 0.5, "units": "g"},
+            "Black pepper": {"quantity": 0.1, "units": "g"},
+            "Olive oil": {"quantity": 1, "units": "packet"},
+            "Hot sauce": {"quantity": 2, "units": "packet"},
+            "Water": {"quantity": 16, "units": "fl oz"}
+        }
+    },
+    "Ratatouille pasta": {
+        "ingredients": {
+            "La Moderna pasta": {"quantity": 50, "units": "g"},
+            "Dried onion": {"quantity": 10, "units": "g"},
+            "Dried eggplant": {"quantity": 5, "units": "g"},
+            "Dried zucchini": {"quantity": 8, "units": "g"},
+            "Dried squash": {"quantity": 4, "units": "g"},
+            "Dried bell peppers": {"quantity": 8, "units": "g"},
+            "Dried tomato": {"quantity": 4, "units": "g"},
+            "Dried tomato paste": {"quantity": 15, "units": "g"},
+            "Butter powder": {"quantity": 10, "units": "g"},
+            "Sugar": {"quantity": 2, "units": "g"},
+            "Salt": {"quantity": 4, "units": "g"},
+            "Garlic powder": {"quantity": 3, "units": "g"},
+            "Herbes de provence": {"quantity": 0.5, "units": "g"},
+            "Basil": {"quantity": 0.25, "units": "g"},
+            "Ground thyme": {"quantity": 0.25, "units": "g"},
+            "Ground sage": {"quantity": 0.25, "units": "g"},
+            "Parsley": {"quantity": 0.25, "units": "g"},
+            "Celery salt": {"quantity": 0.25, "units": "g"},
+            "Black pepper": {"quantity": 1, "units": "g"},
+            "Olive oil": {"quantity": 1, "units": "packet"},
+            "Hot sauce": {"quantity": 1, "units": "packet"},
+            "Water": {"quantity": 12, "units": "fl oz"}
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{"Dried onion": {"amount": {"quantity": 50.0, "units": "g"}, "nutrients": {"Calories": {"quantity": 170.0, "units": null}, "Fat": {"quantity": 0.2, "units": "g"}, "Sodium": {"quantity": 11.0, "units": "mg"}, "Potassium": {"quantity": 23.0, "units": "%DV"}, "Protein": {"quantity": 4.5, "units": "g"}, "Vitamin C": {"quantity": 63.0, "units": "%DV"}, "Calcium": {"quantity": 9.9, "units": "%DV"}, "Iron": {"quantity": 4.3, "units": "%DV"}}}, "Dried carrot": {"amount": {"quantity": 100.0, "units": "g"}, "nutrients": {"Calories": {"quantity": 341.0, "units": null}, "Fat": {"quantity": 1.5, "units": "g"}, "Sodium": {"quantity": 275.0, "units": "mg"}, "Potassium": {"quantity": 73.0, "units": "%DV"}, "Protein": {"quantity": 8.1, "units": "g"}, "Vitamin A": {"quantity": 2167.0, "units": "%DV"}, "Vitamin C": {"quantity": 24.0, "units": "%DV"}, "Calcium": {"quantity": 21.0, "units": "%DV"}, "Iron": {"quantity": 22.0, "units": "%DV"}}}, "Dried zucchini": {"amount": {"quantity": 100.0, "units": "g"}, "nutrients": {"Calories": {"quantity": 288.0, "units": null}, "Fat": {"quantity": 2.9, "units": "g"}, "Sodium": {"quantity": 62.0, "units": "mg"}, "Potassium": {"quantity": 146.0, "units": "%DV"}, "Protein": {"quantity": 24.0, "units": "g"}, "Vitamin C": {"quantity": 247.0, "units": "%DV"}, "Calcium": {"quantity": 24.0, "units": "%DV"}, "Iron": {"quantity": 48.0, "units": "%DV"}}}, "Dried bell peppers": {"amount": {"quantity": 100.0, "units": "g"}, "nutrients": {"Calories": {"quantity": 315.0, "units": null}, "Fat": {"quantity": 3.0, "units": "g"}, "Sodium": {"quantity": 101.0, "units": "mg"}, "Potassium": {"quantity": 47.0, "units": "%DV"}, "Protein": {"quantity": 16.0, "units": "g"}, "Vitamin A": {"quantity": 761.0, "units": "%DV"}, "Vitamin C": {"quantity": 2601.0, "units": "%DV"}, "Calcium": {"quantity": 7.7, "units": "%DV"}, "Iron": {"quantity": 45.0, "units": "%DV"}}}, "Dried beans": {"amount": {"quantity": 30.0, "units": "g"}, "nutrients": {"Calories": {"quantity": 100.0, "units": null}, "Potassium": {"quantity": 10.0, "units": "%DV"}, "Protein": {"quantity": 8.0, "units": "g"}, "Calcium": {"quantity": 2.0, "units": "%DV"}, "Iron": {"quantity": 10.0, "units": "%DV"}}}, "TVP": {"amount": {"quantity": 25.0, "units": "g"}, "nutrients": {"Calories": {"quantity": 90.0, "units": null}, "Sodium": {"quantity": 5.0, "units": "mg"}, "Potassium": {"quantity": 15.0, "units": "%DV"}, "Protein": {"quantity": 13.0, "units": "g"}, "Calcium": {"quantity": 4.0, "units": "%DV"}, "Iron": {"quantity": 10.0, "units": "%DV"}}}, "Instant white rice": {"amount": {"quantity": 46.0, "units": "g"}, "nutrients": {"Calories": {"quantity": 170.0, "units": null}, "Protein": {"quantity": 4.0, "units": "g"}}}, "Instant brown rice": {"amount": {"quantity": 50.0, "units": "g"}, "nutrients": {"Calories": {"quantity": 180.0, "units": null}, "Fat": {"quantity": 1.5, "units": "g"}, "Potassium": {"quantity": 2.0, "units": "%DV"}, "Protein": {"quantity": 4.0, "units": "g"}}}, "Coconut milk powder": {"amount": {"quantity": 9.0, "units": "g"}, "nutrients": {"Calories": {"quantity": 60.0, "units": null}, "Fat": {"quantity": 6.0, "units": "g"}, "Potassium": {"quantity": 2.0, "units": "%DV"}, "Protein": {"quantity": 0.5, "units": "g"}, "Iron": {"quantity": 1.67, "units": "%DV"}}}, "Instant mashed potatoes": {"amount": {"quantity": 23.0, "units": "g"}, "nutrients": {"Calories": {"quantity": 80.0, "units": null}, "Fat": {"quantity": 0.5, "units": "g"}, "Sodium": {"quantity": 340.0, "units": "mg"}, "Potassium": {"quantity": 6.0, "units": "%DV"}, "Protein": {"quantity": 2.0, "units": "g"}, "Calcium": {"quantity": 2.0, "units": "%DV"}, "Iron": {"quantity": 2.0, "units": "%DV"}}},
+    "Olive oil": {
+        "amount": {
+            "quantity": 1,
+            "units": "packet"
+        },
+        "nutrients": {
+            "Calories": {
+                "quantity": 90,
+                "units": null
+            },
+            "Fat": {
+                "quantity": 11,
+                "units": "g"
+            }
+        }
+    },
+    "Salt": {
+        "amount": {
+            "quantity": 1.5,
+            "units": "g"
+        },
+        "nutrients": {
+            "Sodium": {
+                "quantity": 590,
+                "units": "mg"
+            }
+        }
+    },
+    "Sugar": {
+        "amount": {
+            "quantity": 4,
+            "units": "g"
+        },
+        "nutrients": {
+            "Calories": {
+                "quantity": 15,
+                "units": null
+            }
+        }
+    },
+    "La Moderna pasta": {
+        "amount": {
+            "quantity": 55,
+            "units": "g"
+        },
+        "nutrients": {
+            "Calories": {"quantity": 210, "units": null},
+            "Fat": {"quantity": 1, "units": "g"},
+            "Protein": {"quantity": 7, "units": "g"},
+            "Calcium": {"quantity": 2, "units": "%DV"},
+            "Iron": {"quantity": 6, "units": "%DV"},
+            "Potassium": {"quantity": 4, "units": "%DV"}
+        }
+    },
+    "Butter powder": {
+        "amount": {"quantity": 6, "units": "g"},
+        "nutrients": {
+            "Calories": {"quantity": 40, "units": "g"},
+            "Fat": {"quantity": 4, "units": "g"},
+            "Sodium": {"quantity": 55, "units": "mg"},
+            "Protein": {"quantity": 0.5, "units": "g"},
+            "Calcium": {"quantity": 2, "units": "%DV"}
+        }
+    }
+}
